@@ -23,7 +23,7 @@ func TestAPICall(t *testing.T){
 
 }
 func TestAPIAuth(t *testing.T) {
-	api := NewApi("https://httpbin.org")
+	api := NewApi("https://github.com/api")
 	router := NewRouter()
 	router.RegisterFunc(200, func(resp *http.Response, _ interface{}) error {
 		return nil
