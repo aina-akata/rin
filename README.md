@@ -26,7 +26,7 @@ Elle permet de décrire des endpoints dynamiques, d'ajouter facilement de l'auth
 
 ---
 
-## ⚙️ Exemple d’utilisation
+## ⚙️ Exemples d’utilisation
 
 ```go
 package main
