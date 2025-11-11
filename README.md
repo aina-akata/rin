@@ -1,7 +1,7 @@
 # 🚀 RIN – REST Interface Nexus
 
 **RIN** est une bibliothèque Go modulaire conçue pour simplifier et centraliser l’interaction avec des APIs REST dans des contextes DevOps et automatisation.  
-Elle permet de décrire des endpoints dynamiques, d'ajouter facilement de l'authentification, et de router intelligemment les réponses selon leur code HTTP.
+Elle permet de décrire des endpoints dynamiques, d'ajouter facilement de l'authentification, et de router intelligemment les réponses.
 
 ---
 
