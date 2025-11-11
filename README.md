@@ -59,7 +59,7 @@ func main() {
     }
 }
 ```
-## Installations
+## Installation
 
 Utilisez `go get` pour ajouter la bibliothèque à votre projet :
 
